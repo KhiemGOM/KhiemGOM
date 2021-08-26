@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KhiemGOM
+- 👀 I’m interested in coding stuff and physic
+- 🌱 I’m currently learning orientated progamming
+- 💞️ I’m looking to collaborate on making games
