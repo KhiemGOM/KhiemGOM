@@ -14,7 +14,7 @@ I like building things with code, and I'm into physics too. Right now I'm gettin
 ## Work
 
 - 🌱 Doing startup software engineering work at [SkillSeed](https://skillseed.org)
-- 🤖 Working on RoboCup@Home with [teamRobo@EEE](https://github.com/Team-Robo)
+- 🤖 Working on RoboCup@Home with [teamRobo@EEE](https://github.com/Team-Robo) (repos will be public once competition season is over)
 
 ## Projects
 
