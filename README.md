@@ -30,6 +30,7 @@ I like building things with code, and I'm into physics too. Right now I'm gettin
 
 ## Also
 
+- 🎮 Games: [khiemgom.itch.io](https://khiemgom.itch.io)
 - 🤖 Robotics: FRC code for [GART team 6520](https://github.com/KhiemGOM/FRC2023)
 - ⛏️ Minecraft: [Warden](https://github.com/KhiemGOM/Warden), a Fabric mod that limits survival on a server
 - 🔢 Small tools: [BoggleSolver](https://github.com/KhiemGOM/BoggleSolver), [eval](https://github.com/KhiemGOM/eval), [ElectronConfigurationCalculator](https://github.com/KhiemGOM/ElectronConfigurationCalculator)
