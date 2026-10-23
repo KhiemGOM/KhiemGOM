@@ -26,7 +26,7 @@ I like building things with code, and I'm into physics too. Right now I'm gettin
 | [Kitchen-Chaos](https://github.com/KhiemGOM/Kitchen-Chaos) | Unity clone of Overcooked | C# |
 | [CChess](https://github.com/KhiemGOM/CChess) | Console chess game | C++ |
 | [RockPaperScissorAI](https://github.com/KhiemGOM/RockPaperScissorAI) | RNN that tries to beat you at rock paper scissors | Jupyter |
-| [FireCrackle](https://github.com/KhiemGOM/FireCrackle) | Desktop app that matches Minecraft fire animations to video frames, to flag footage worth a closer look | Rust, Tauri, React |
+| [FireCrackle](https://github.com/KhiemGOM/FireCrackle) | Minecraft gameplay footage splice detection using fire animation, dubbed fire cracking | Rust, Tauri, React |
 
 ## Also
 
