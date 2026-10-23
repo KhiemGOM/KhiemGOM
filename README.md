@@ -11,10 +11,15 @@ I like building things with code, and I'm into physics too. Right now I'm gettin
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
+## Work
+
+- 🌱 Doing startup software engineering work at [SkillSeed](https://skillseed.org)
+
 ## Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [Lectify](https://lectify.org) | AI-powered study app that turns your slides and files into quizzes | Web |
 | [Swarmboard](https://github.com/KhiemGOM/Swarmboard) | Local coordination hub for coding agents sharing one workspace | Python |
 | [nag](https://github.com/KhiemGOM/nag) | Offline, ad-free, no-paywall reminders for tasks you keep putting off | Kotlin |
 | [signallang](https://github.com/KhiemGOM/signallang) | Small, safe scripting language for publishing synthetic signals | Python |
