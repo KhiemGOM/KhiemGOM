@@ -24,7 +24,6 @@ I like building things with code, and I'm into physics too. Right now I'm gettin
 | [Swarmboard](https://github.com/KhiemGOM/Swarmboard) | Local coordination hub for coding agents sharing one workspace | Python |
 | [nag](https://github.com/KhiemGOM/nag) | Offline, ad-free, no-paywall reminders for tasks you keep putting off | Kotlin |
 | [signallang](https://github.com/KhiemGOM/signallang) | Small, safe scripting language for publishing synthetic signals | Python |
-| [Kitchen-Chaos](https://github.com/KhiemGOM/Kitchen-Chaos) | Unity clone of Overcooked | C# |
 | [CChess](https://github.com/KhiemGOM/CChess) | Console chess game | C++ |
 | [RockPaperScissorAI](https://github.com/KhiemGOM/RockPaperScissorAI) | RNN that tries to beat you at rock paper scissors | Jupyter |
 | [FireCrackle](https://github.com/KhiemGOM/FireCrackle) | Minecraft gameplay footage splice detection using fire animation, dubbed fire cracking | Rust, Tauri, React |
